@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background: darkgray;
+}
+
+#editor {
+  width: 60vw;
+  height: 30vw;
+  background: lightgray;
+}
+
+#preview {
+  width: 80vw;
+  background: lightgray;
+}
+
+#spacer{
+  height: 5vw;
+}
