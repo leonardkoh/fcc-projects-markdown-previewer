@@ -11,4 +11,9 @@ Optional Bonus (you do not need to make this test pass): When I click a link ren
 Optional Bonus (you do not need to make this test pass): My markdown previewer interprets carriage returns and renders them as br (line break) elements.
 </ul>
 
+To Do:
+- Add better styling + colours 
+
 Deployed on: http://lk-markdown-previewer.netlify.com
+
+Note: Issues wth netlify deploy as original copy didnt have marked package installed.
