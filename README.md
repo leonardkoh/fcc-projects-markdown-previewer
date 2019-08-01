@@ -1,4 +1,4 @@
-# fcc-projects-random-markdown-previewer
+# fcc-projects-markdown-previewer
 Tasks required:
 <ul>
 <li>User Story #1: I can see a textarea element with a corresponding id="editor".</li>
