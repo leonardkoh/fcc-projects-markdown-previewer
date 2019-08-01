@@ -40,9 +40,10 @@ class App extends React.Component {
         return (
             <div className="container-fluid">
                 <div id="spacer"></div>
-                <h1>Editor</h1> 
+                <h2>Editor</h2> 
                 <Editor value={this.state.input} onChange={this.handleChange} />
-                <h1>Preview</h1> 
+                <div id="spacer"></div>                
+                <h2>Previewer</h2> 
                 <Previewer value={this.state.input} />
             </div>
         )
